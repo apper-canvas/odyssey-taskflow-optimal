@@ -1,0 +1,39 @@
+{
+  "categories": [
+    {
+      "id": "all",
+      "name": "All Tasks",
+      "color": "#6366F1",
+      "icon": "List",
+      "taskCount": 5
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "color": "#8B5CF6",
+      "icon": "Briefcase",
+      "taskCount": 3
+    },
+    {
+      "id": "personal",
+      "name": "Personal",
+      "color": "#10B981",
+      "icon": "User",
+      "taskCount": 2
+    },
+    {
+      "id": "shopping",
+      "name": "Shopping",
+      "color": "#F59E0B",
+      "icon": "ShoppingCart",
+      "taskCount": 0
+    },
+    {
+      "id": "health",
+      "name": "Health & Fitness",
+      "color": "#EF4444",
+      "icon": "Heart",
+      "taskCount": 0
+    }
+  ]
+}
